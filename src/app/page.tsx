@@ -18,6 +18,7 @@ export default function Home() {
                             Lorem ipsum dolor sit amet consectetur adipisicing
                             elit. Cupiditate itaque repudiandae rerum?
                         </p>
+                        <h2>Something for everyone</h2>
                         <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
                             src/app/page.tsx
                         </code>
